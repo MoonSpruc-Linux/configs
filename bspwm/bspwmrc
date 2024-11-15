@@ -43,8 +43,8 @@ bspc config pointer_action3 resize_corner
 # rules
 
 bspc rule -a feh state=floating rectangle=1600x1100+460+80
-bspc rule -a Thunar state=floating rectangle=1600x900+460+180
-bspc rule -a pavucontrol state=floating rectangle=970x600+972+70
+bspc rule -a Thunar state=floating rectangle=1600x900+460+200
+bspc rule -a pavucontrol state=floating rectangle=970x600+970+70
 #bspc rule -a firefox desktop='^6'
 
 # python script to always initialize with a different wallpaper:
