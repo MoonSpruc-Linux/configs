@@ -12,8 +12,8 @@
 
   frame_width = 2
   separator_height = 2
-  frame_color = "#272a34"
-  separator_color = "#272a34"
+  frame_color = "#5e6574"
+  separator_color = "#5e6574"
 
   sort = no
   font = JetBrainsMono Nerd Font 15
@@ -41,18 +41,18 @@
 
 [urgency_low]
   background = "#272a34"
-  frame_color = "#272a34"
+  frame_color = "#5e6574"
   foreground = "#f9f9f9"
   timeout = 5
 
 [urgency_normal]
   background = "#272a34"
-  frame_color = "#272a34"
+  frame_color = "#5e6574"
   foreground = "#f9f9f9"
   timeout = 5
 
 [urgency_critical]
   background = "#272a34"
-  frame_color = "#272a34"
+  frame_color = "#5e6574"
   foreground = "#f9f9f9"
   timeout = 10
